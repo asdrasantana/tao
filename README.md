@@ -12,6 +12,14 @@ Currently, these materials are dispersed across various sources like the [Datopi
 
 See the sidebar on the left for the materials available here so far.
 
+## Views
+
+- [True Joy in Life](https://rufuspollock.com/True+Joy+in+Life)
+- [Not Everyone Knows What They Want](https://rufuspollock.com/Not+Everyone+Knows+What+They+Want)
+- [What's So by Werner Erhard](https://rufuspollock.com/What's+So+by+Werner+Erhard)
+- [Zen](https://rufuspollock.com/Zen)
+- [Primacy of Being](https://rufuspollock.com/Primacy+of+Being)
+
 ## How to Read the Tao
 
 *Or ... The Truth Believed is a Lie. Live the Way, do not Follow It.*
