@@ -76,7 +76,7 @@
     <a class="rm-box rm-side" href="https://rufuspollock.com/post/getting-things-done" style="left:70px; top:20px; width:185px;">GTD</a>
     <a class="rm-box rm-side" href="https://tao.rufuspollock.com/KISS+Principle" style="left:70px; top:130px; width:185px;">KISS Principle</a>
     <a class="rm-box rm-center" href="https://lifeitself.org/tao/getting-stuff-done" style="left:315px; top:70px; width:270px;"><span class="rm-n">02</span>Getting Stuff Done</a>
-    <a class="rm-box rm-side" href="https://tao.rufuspollock.com#views" style="left:745px; top:20px; width:185px;">Key Views</a>
+    <a class="rm-box rm-side" href="https://tao.lifeitself.org/views" style="left:745px; top:20px; width:185px;">Key Views</a>
   </div>
   <div class="rm-row" style="height: 90px;">
     <div class="rm-spine"></div>
